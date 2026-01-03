@@ -42,7 +42,7 @@ let pos = [
         y: 0.69
     }
 ]
-ctx.lineWidth = 2;
+ctx.lineWidth = 1.5;
 ctx.moveTo(pos[0].x*250,pos[0].y*250);
 ctx.lineTo(pos[1].x*250,pos[1].y*250);
 ctx.lineTo(pos[2].x*250,pos[2].y*250);
